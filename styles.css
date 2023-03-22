@@ -1,1 +1,32 @@
 /*  your css code here. If applicable */
+.main{
+	width:875px;
+	height:250px;
+	background:#F5F5F5;
+	
+	
+}
+#section2{
+	margin-top:10px;
+}
+section{
+	width:825px;
+	height:70px;
+	background:white;
+	display:block;
+	padding:3px;
+	padding-left:10px;
+	margin-left:20px;
+	margin-top:-20px;
+	
+}
+footer{
+	float:right;
+	margin:-10px 10px;
+	text-style:italic;
+}
+ .main h3{
+	margin:30px 20px;
+	 display:inline-block;
+	 font-size:25px;
+}
