@@ -9,24 +9,25 @@
 #section2{
 	margin-top:10px;
 }
-section{
+div{
 	width:825px;
-	height:70px;
+	height:60px;
 	background:white;
 	display:block;
 	padding:3px;
 	padding-left:10px;
-	margin-left:20px;
+	margin-left:15px;
 	margin-top:-20px;
 	
 }
 footer{
-	float:right;
-	margin:-10px 10px;
+	text-align:right;
+	margin:-15px 15px;
 	text-style:italic;
 }
- .main h3{
-	margin:30px 20px;
+ .main h1{
+	 margin:30px;
+	 margin-left:20px;
 	 display:inline-block;
-	 font-size:25px;
+	 
 }
