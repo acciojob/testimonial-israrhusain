@@ -1,15 +1,16 @@
 /*  your css code here. If applicable */
+
 .main{
 	width:875px;
 	height:250px;
 	background:#F5F5F5;
-	
-	
 }
-#section2{
-	margin-top:10px;
+
+.section1,div{
+	margin-bottom:35px;
 }
-div{
+
+.section1{
 	width:825px;
 	height:60px;
 	background:white;
@@ -18,16 +19,16 @@ div{
 	padding-left:10px;
 	margin-left:15px;
 	margin-top:-20px;
-	
 }
+
 p{
 	text-align:right;
 	margin:8px 15px;
 	font-style:italic;
 }
+
   h1{
 	 margin:30px;
 	 margin-left:20px;
 	 display:inline-block;
-	 
-}
+	}
