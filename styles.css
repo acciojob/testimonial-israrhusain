@@ -20,10 +20,13 @@
 	margin-left:15px;
 	margin-top:-20px;
 }
-
 p{
-	text-align:right;
+	
+}
+.p1{
+	float:right;
 	margin:8px 15px;
+	margin-top:-17px;
 	font-style:italic;
 }
 
